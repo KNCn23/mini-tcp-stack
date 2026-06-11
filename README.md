@@ -1,4 +1,13 @@
-# mini-tcp-stack
+<div align="center">
+
+<a href="https://kncn23.github.io/#projects"><img src="assets/banner.svg" alt="mini-tcp-stack — Ethernet, ARP, IPv4, ICMP and a TCP state machine, from scratch in readable C" width="100%"></a>
+
+[![Top language](https://img.shields.io/github/languages/top/KNCn23/mini-tcp-stack?style=flat-square&labelColor=0a0e14&color=58e6d9)](https://github.com/KNCn23/mini-tcp-stack)
+![Protocols](https://img.shields.io/badge/protocols-ETH%20%2F%20ARP%20%2F%20IPv4%20%2F%20ICMP%20%2F%20TCP-7c8cff?style=flat-square&labelColor=0a0e14)
+[![License](https://img.shields.io/github/license/KNCn23/mini-tcp-stack?style=flat-square&labelColor=0a0e14&color=8b9bb4)](LICENSE)
+[![Portfolio](https://img.shields.io/badge/portfolio-kncn23.github.io-58e6d9?style=flat-square&labelColor=0a0e14)](https://kncn23.github.io)
+
+</div>
 
 A small, readable **TCP/IP stack written from scratch in C**. It parses and
 builds Ethernet, ARP, IPv4, ICMP and TCP, implements the TCP three-way
